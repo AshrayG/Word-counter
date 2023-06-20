@@ -12,7 +12,7 @@ function App() {
   return (
     <div >
 
-      <h1>Live Word Counter</h1>
+      <h1>Live Responsive Word Counter</h1>
 
       <textarea
         rows="5"
